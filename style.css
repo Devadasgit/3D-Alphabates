@@ -1,0 +1,1031 @@
+#box {
+    
+    text-align: center;
+    margin-left: 400px;
+    float: center;
+    width: 500PX;
+    height: 950px;
+    position: relative;
+    /* float: left; */
+}
+/* #box:hover {
+    transform: scale(1.1);
+} */
+
+#A {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+    /* transition: pulse 1s infinite; */
+
+}
+#A:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#B {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#B:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#C {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#C:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+
+#D {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#D:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#E {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#E:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#F {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#F:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#G {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#G:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#H {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#H:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#I {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#I:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#J {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#J:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#K {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#K:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#L {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#L:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#M {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#M:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#N {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#N:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#O {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#O:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#P {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#P:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#Q {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#Q:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#R {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#R:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#S {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#S:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#T {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#T:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#U {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#U:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#V {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#V:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#W {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#W:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#X {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#X:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#Y {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#Y:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
+#Z {
+    display: inline-block;
+    border: 2px solid #777;
+    border-top: 0;
+    border-left: 0;
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+    padding-top: 10px;
+    line-height: 100px;
+    font-size: 130px;
+    text-align: center;
+    color: #70869d;
+    text-shadow:  -1px -1px 1px #efede3, 
+      0px 1px 0 #2e2e2e, 
+      0px 2px 0 #2c2c2c, 
+      0px 3px 0 #2a2a2a, 
+      0px 4px 0 #282828, 
+      0px 5px 0 #262626, 
+      0px 6px 0 #242424, 
+      0px 7px 0 #222, 
+      0px 8px 0 #202020, 
+      0px 9px 0 #1e1e1e, 
+      0px 10px 0 #1c1c1c, 
+      0px 11px 0 #1a1a1a, 
+      0px 12px 0 #181818, 
+      0px 13px 0 #161616, 
+      0px 14px 0 #141414, 
+      0px 15px 0 #121212,
+      2px 20px 5px rgba(0, 0, 0, 0.9),
+      5px 23px 5px rgba(0, 0, 0, 0.3),
+      8px 27px 8px rgba(0, 0, 0, 0.5),
+      8px 28px 35px rgba(0, 0, 0, 0.9);
+    box-shadow: 3px 4px 5px #70869d, 4px 5px 6px #70869d,1px 2px 3px #70869d, 2px 3px 4px #70869d;
+}
+#Z:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-in;
+}
